@@ -56,8 +56,8 @@
 	</dependencies>
 
 	<scm>
-		<connection>scm:git:https://github.com/pennsong/intro-maven2.git</connection>
-		<developerConnection>scm:git:https://github.com/pennsong/intro-maven2.git</developerConnection>
+		<connection>scm:git:https://pennsong:PennJia1@github.com/pennsong/intro-maven2.git</connection>
+		<developerConnection>scm:git:https://pennsong:PennJia1@github.com/pennsong/intro-maven2.git</developerConnection>
 		<url>https://github.com/pennsong/intro-maven2</url>
 	</scm>
 
